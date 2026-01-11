@@ -1,6 +1,3 @@
-# ppo-lunarlander-sb3
-PPO reinforcement learning agent trained on LunarLander-v2 using Stable-Baselines3.
-
 
 # PPO LunarLander-v2 (Stable-Baselines3)
 
@@ -9,6 +6,14 @@ This repository contains a Proximal Policy Optimization (PPO) agent trained on t
 The project demonstrates a complete deep reinforcement learning workflow including training, evaluation, visualization, and model publishing.
 
 ---
+## 🎥 Agent Behavior
+
+| Random Policy | Trained PPO Policy |
+|--------------|-------------------|
+| ![]![Untitled design](https://github.com/user-attachments/assets/0403e51a-a1bf-420d-8650-6e9172fe44bb)
+ | ![]![Untitled design (1)](https://github.com/user-attachments/assets/aa2acb2e-b247-4e65-9f5a-addd31382d54)
+ |
+
 
 ## 🚀 Environment
 
