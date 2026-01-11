@@ -8,11 +8,12 @@ The project demonstrates a complete deep reinforcement learning workflow includi
 ---
 ## 🎥 Agent Behavior
 
-| Random Policy | Trained PPO Policy |
-|--------------|-------------------|
-| ![]![Untitled design](https://github.com/user-attachments/assets/0403e51a-a1bf-420d-8650-6e9172fe44bb)
- | ![]![Untitled design (1)](https://github.com/user-attachments/assets/aa2acb2e-b247-4e65-9f5a-addd31382d54)
- |
+### Random Policy
+![Random Policy](![Untitled design](https://github.com/user-attachments/assets/2d67191d-eeb1-4d31-af39-aa30a0b5b57a)
+
+
+### Trained PPO Policy
+![Trained PPO Policy]![Untitled design (1)](https://github.com/user-attachments/assets/0af5fb99-d1ea-4572-b856-69ccd25d8f69)
 
 
 ## 🚀 Environment
@@ -47,15 +48,5 @@ Final evaluation over 20 episodes:
 This exceeds the standard solved threshold for LunarLander-v2.
 
 ---
-
-## 🎥 Agent Behavior
-
-### Random Policy
-![Random Policy](![Untitled design](https://github.com/user-attachments/assets/2d67191d-eeb1-4d31-af39-aa30a0b5b57a)
-)
-
-### Trained PPO Policy
-![Trained PPO Policy]![Untitled design (1)](https://github.com/user-attachments/assets/0af5fb99-d1ea-4572-b856-69ccd25d8f69)
-
 
 
