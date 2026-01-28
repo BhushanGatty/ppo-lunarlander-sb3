@@ -9,11 +9,11 @@ The project demonstrates a complete deep reinforcement learning workflow includi
 ## 🎥 Agent Behavior
 
 ### Random Policy
-![Random Policy](![Untitled design](https://github.com/user-attachments/assets/2d67191d-eeb1-4d31-af39-aa30a0b5b57a)
+(![Untitled design](https://github.com/user-attachments/assets/2d67191d-eeb1-4d31-af39-aa30a0b5b57a)
 
 
 ### Trained PPO Policy
-![Trained PPO Policy]![Untitled design (1)](https://github.com/user-attachments/assets/0af5fb99-d1ea-4572-b856-69ccd25d8f69)
+[Untitled design (1)](https://github.com/user-attachments/assets/0af5fb99-d1ea-4572-b856-69ccd25d8f69)
 
 
 ## 🚀 Environment
