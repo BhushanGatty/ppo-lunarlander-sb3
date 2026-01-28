@@ -13,7 +13,7 @@ The project demonstrates a complete deep reinforcement learning workflow includi
 
 
 ### Trained PPO Policy
-[Untitled design (1)](https://github.com/user-attachments/assets/0af5fb99-d1ea-4572-b856-69ccd25d8f69)
+(![Untitled design (1)](https://github.com/user-attachments/assets/0af5fb99-d1ea-4572-b856-69ccd25d8f69)
 
 
 ## 🚀 Environment
